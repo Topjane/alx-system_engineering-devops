@@ -1,1 +1,1 @@
-find . -type f -name "*.js" -delete
+Shell I/O redirections
